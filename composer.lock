@@ -1740,16 +1740,16 @@
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v3.4.26",
+            "version": "v3.4.28",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dependency-injection.git",
-                "reference": "dee85a9148399cdb2731603802842bcfd8afe5ab"
+                "reference": "8f2a0452f086a66f6d6cf53a432867b575887768"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/dee85a9148399cdb2731603802842bcfd8afe5ab",
-                "reference": "dee85a9148399cdb2731603802842bcfd8afe5ab",
+                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/8f2a0452f086a66f6d6cf53a432867b575887768",
+                "reference": "8f2a0452f086a66f6d6cf53a432867b575887768",
                 "shasum": ""
             },
             "require": {
@@ -1807,7 +1807,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-16T11:13:42+00:00"
+            "time": "2019-05-19T14:11:39+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
