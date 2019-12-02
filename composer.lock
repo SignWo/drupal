@@ -880,10 +880,16 @@
         {
             "name": "drupal/core-project-message",
             "version": "8.8.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drupal/core-project-message.git",
+                "reference": "418988513bafe533d6731650b0067b839eb61fc2"
+            },
             "dist": {
-                "type": "path",
-                "url": "composer/Plugin/ProjectMessage",
-                "reference": "3b795f469441eb27854798f70cb38e717d80bbfc"
+                "type": "zip",
+                "url": "https://api.github.com/repos/drupal/core-project-message/zipball/418988513bafe533d6731650b0067b839eb61fc2",
+                "reference": "418988513bafe533d6731650b0067b839eb61fc2",
+                "shasum": ""
             },
             "require": {
                 "composer-plugin-api": "^1.1",
@@ -910,10 +916,16 @@
         {
             "name": "drupal/core-vendor-hardening",
             "version": "8.8.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drupal/core-vendor-hardening.git",
+                "reference": "f08bdad7de04c369b7cf18e642f6d344f4b2dc07"
+            },
             "dist": {
-                "type": "path",
-                "url": "composer/Plugin/VendorHardening",
-                "reference": "2db54f089065dedbe4a040b01f7b527f2bad68f6"
+                "type": "zip",
+                "url": "https://api.github.com/repos/drupal/core-vendor-hardening/zipball/f08bdad7de04c369b7cf18e642f6d344f4b2dc07",
+                "reference": "f08bdad7de04c369b7cf18e642f6d344f4b2dc07",
+                "shasum": ""
             },
             "require": {
                 "composer-plugin-api": "^1.1",
@@ -6105,16 +6117,16 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v3.4.35",
+            "version": "v3.4.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "3e915e5ce305f8bc8017597f71f1f4095092ddf8"
+                "reference": "290ae21279b37bfd287cdcce640d51204e84afdf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/3e915e5ce305f8bc8017597f71f1f4095092ddf8",
-                "reference": "3e915e5ce305f8bc8017597f71f1f4095092ddf8",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/290ae21279b37bfd287cdcce640d51204e84afdf",
+                "reference": "290ae21279b37bfd287cdcce640d51204e84afdf",
                 "shasum": ""
             },
             "require": {
@@ -6150,7 +6162,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2019-10-30T12:43:22+00:00"
+            "time": "2019-11-17T21:55:15+00:00"
         },
         {
             "name": "symfony/lock",
